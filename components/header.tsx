@@ -17,7 +17,7 @@ const Header = () => {
       className="h-10 w-auto object-contain"
      />
      </Link>
-
+//clerk file
      <div className="flex items-center gap-4" >
         
           <SignedOut>
